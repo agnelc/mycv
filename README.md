@@ -1,7 +1,7 @@
 AGNEL THOMAS C ---Passionate Web Developer
 
 This contains my Portfolio
-and you visit my website on 
+and you can visit my website on 
 
 http://agnelc.github.io/mycv/   which is hosted on github pages
 
