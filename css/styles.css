@@ -696,3 +696,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef9a00', end
     
     /* Google Map
 =================================================== */
+    
+@media screen and (max-width: 500px){
+    .tagline,.tagline span {
+        display:none;
+    }
+}
