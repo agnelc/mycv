@@ -669,11 +669,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef9a00', end
 =================================================== */
     #map {
         height:400px;
-        width:550px;
+        width:auto;
     }
     .gm-style-iw * {
         display: block;
-        width: 100%;
     }
     .gm-style-iw h4, .gm-style-iw p {
         margin: 0;
@@ -681,6 +680,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef9a00', end
     }
     .gm-style-iw a {
         color: #4272db;
+        border-bottom: 0px;
+    }
+     .gm-style-iw a:hover {
+        border-bottom: 0px;
+    }
+    .gm-style .gm-style-iw {
+    font-weight: 300;
+    font-size: 13px;
+    overflow: hidden;
+    }
+    .gm-style-iw h4{
+       font-size:14px;
     }
     
     /* Google Map
